@@ -14,7 +14,7 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
 - [presentation]()
 - [vdo]()
 
-### Testing
+### Preview
 
 <video src="https://github.com/user-attachments/assets/2b1fac59-690e-4855-bd46-450020facd77" style="width: 30%;" controls></video>
 

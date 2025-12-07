@@ -1,5 +1,7 @@
 # Smart Air Purifier System🍃
 
+Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs.google.com/document/d/10-oK2HmlPktFBFTHpYNSGVT0SIalIbHQ8mnz8QSksQc/edit?tab=t.0#heading=h.ppttuyh33e8r)
+
 <table>
   <tr>
     <td valign="top">
@@ -12,10 +14,35 @@
   </tr>
 </table>
 
-
-Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs.google.com/document/d/10-oK2HmlPktFBFTHpYNSGVT0SIalIbHQ8mnz8QSksQc/edit?tab=t.0#heading=h.ppttuyh33e8r)
-
 ### Diagrams
+
+<table>
+  <tr>
+    <td valign="center">
+      Architecture diagram
+    </td>
+    <td valign="center">
+       <img src="https://github.com/user-attachments/assets/2f894a3a-a81d-47ae-a424-dffe2b1118ff" width="500" height="400">
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
+      Wiring diagram
+    </td>
+    <td valign="center">
+       <img src="https://github.com/user-attachments/assets/4c011cb7-45f3-4444-9234-ce7960074e50" width="500" height="400">
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
+      Dashboard
+    </td>
+    <td valign="center">
+       <img src="https://github.com/user-attachments/assets/4b8329f4-de0a-4333-8066-9b8304bce1f1" width="500" height="250"> <br>
+      <img src="https://github.com/user-attachments/assets/cf4c4103-8ae0-4677-b1fb-f4a9b32a4afc" width="500" height="200">
+    </td>
+  </tr>
+</table>
 
 ### Documents
 - [report](https://github.com/S-Gout/Embedded-Project/blob/81b175b5dca9e00979cf876bf0b5b3ad29dbfbb7/Documents/sGout_embeddedReport.pdf)

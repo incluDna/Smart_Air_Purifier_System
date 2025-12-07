@@ -33,25 +33,17 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
        <img src="https://github.com/user-attachments/assets/4c011cb7-45f3-4444-9234-ce7960074e50" width="500" height="400">
     </td>
   </tr>
-  <tr>
-    <td valign="center">
-      Dashboard
-    </td>
-    <td valign="center">
-       <img src="https://github.com/user-attachments/assets/4b8329f4-de0a-4333-8066-9b8304bce1f1" width="500" height="250"> <br>
-      <img src="https://github.com/user-attachments/assets/cf4c4103-8ae0-4677-b1fb-f4a9b32a4afc" width="500" height="200">
-    </td>
-  </tr>
 </table>
+
+### Dashboard
+
+  <img width="500" height="664" alt="image" src="https://github.com/user-attachments/assets/d3180539-43b0-4aad-b05e-5d8eef21651f" />
+  <img width="500" height="747" alt="image" src="https://github.com/user-attachments/assets/4c7276b2-2b6b-4556-bb78-ccb0bc223498" />
 
 ### Documents
 - [report](https://github.com/S-Gout/Embedded-Project/blob/81b175b5dca9e00979cf876bf0b5b3ad29dbfbb7/Documents/sGout_embeddedReport.pdf)
 - [presentation]()
 - [vdo](https://www.youtube.com/watch?v=zh7Ymkc0MkU)
-
-### Preview
-
-<video src="https://github.com/user-attachments/assets/2b1fac59-690e-4855-bd46-450020facd77" style="width: 30%;" controls></video>
 
 ### Contributors
 -Penpitcha P.  [incluDna](https://github.com/incluDna) <br>

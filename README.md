@@ -17,7 +17,7 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
 ### Diagrams
 
 [Architecture diagram](https://github.com/incluDna/Smart_Air_Purifier_System/blob/59b41ede8456dd95238ddcdea43af9c9cacfce71/Documents/Diagram/architect_airpure_diagram.png) | 
-[Wiring diagram](https://github.com/S-Gout/Embedded-Project/blob/b7ae679a71dbca306d7179611416219d44046f3a/Documents/Diagram/wiring_airpure.png)
+[Wiring diagram](https://github.com/S-Gout/Embedded-Project/blob/ce71dd0c4c23b000c748df81267359cd521f0b4c/Documents/Diagram/wiring_airpure_diagram1.png)
 
 ### Dashboard & Analytics
 

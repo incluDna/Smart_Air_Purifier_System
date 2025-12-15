@@ -35,7 +35,7 @@ Embedded System Final Project: Smart Devices -> [Instruction(2025)](https://docs
 - [vdo](https://www.youtube.com/watch?v=zh7Ymkc0MkU)
 
 ## Contributors
-- 6733185821  Penpitcha P.
+- 6733185821  Penpitcha P. `project manager`
 - 6733236121  Walaiphan Tr.
 - 6733277921  Sujin R.
 - 6733293921  Aitsayaphan L.
